@@ -2,3 +2,6 @@
 my notes from my deep learning course
 
 Sukuriame github.
+
+Susikūrėme repository.
+Susikūrėme branch.
